@@ -3,3 +3,4 @@ int main() {
     printf("Hello World from C!\n");
     return 0;
 }
+//print hello world code in c
